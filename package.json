@@ -8,8 +8,10 @@
   "license": "MIT",
   "dependencies": {
     "acorn": "^5.7.4",
+    "clean-css": "^4.1.11",
     "cookies": "0.5.1",
     "http-auth": "3.2.3",
+    "kind-of": "^6.0.3",
     "pg": "7.17.1",
     "pg-hstore": "2.3.3",
     "pug": "2.0.0-rc.4",
